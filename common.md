@@ -8,7 +8,7 @@
 
 > ISSUE #1 
 
-## [OEM USB 드라이버 설치(w-pad usb-driver)]()
+## OEM USB 드라이버 설치(w-pad usb-driver)
 
 
 
@@ -35,7 +35,7 @@ Windows 7 이상 버전에서 처음 Android USB 드라이버를 설치하려면
 
 `2019.08.12`
 
-## [android.enableAapt2]()
+## android.enableAapt2
 
 
 
